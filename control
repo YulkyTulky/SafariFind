@@ -1,0 +1,9 @@
+Package: com.yulkytulky.safarifind
+Name: SafariFind
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Easily access Safari's find feature!
+Maintainer: YulkyTulky
+Author: YulkyTulky
+Section: Tweaks

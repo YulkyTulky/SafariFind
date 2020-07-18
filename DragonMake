@@ -1,0 +1,13 @@
+---
+name: SafariFind
+icmd: killall -9 MobileSafari
+
+all:
+    archs:
+        - arm64
+        - arm64e
+
+SafariFind:
+    type: tweak
+    logos_files:
+        - Tweak.x
